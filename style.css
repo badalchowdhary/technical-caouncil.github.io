@@ -41,7 +41,7 @@ body{
 /*-----------banner------------*/
 
 #home{
-    background-image: url(/images/background-gfeeaeca1b_1920.jpg);
+    background-image: url(./images/background-gfeeaeca1b_1920.jpg);
     height: 100vh;
     width: 100vw;
 }
